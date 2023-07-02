@@ -7,8 +7,6 @@ test-func.html
 test-vue3.html
 test-vuetify.html
 
-dist/
-
 # Logs
 logs
 *.log
